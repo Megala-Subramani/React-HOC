@@ -1,0 +1,76 @@
+.dv_EmpDetails{
+    border: 1px solid #b10505;
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    line-height: 45px;
+    left: 50px;
+    top: 100px;
+    background-color:#ffdbdb;
+    font-size: 22px;
+    font-weight: bold;
+    color: #b10505;   
+    cursor: pointer; 
+}
+.tbl_EmpDetails{
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    width: 450px;
+    height: 250px;
+}
+table td, th{
+    border:1px solid black
+}
+.dv_StudentDetails{
+    border: 1px solid #008200;
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    line-height: 45px;
+    left: 576px;
+    top: 100px;
+    background-color: #cdf7cd;
+    font-size: 22px;
+    font-weight: bold;
+    color: #008200;
+    cursor: pointer;
+}
+.tbl_StuDetails{
+    position: absolute;
+    left: 576px;
+    top: 150px;
+    width: 450px;
+    height: 250px;
+}
+.dv_Shoppingdetails{
+    border: 1px solid #000096;
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    line-height: 45px;
+    left: 1100px;
+    top: 100px;
+    background-color: #d7d7ff;
+    font-size: 22px;
+    font-weight: bold;
+    color: #000096;
+    cursor: pointer;
+}
+.tbl_ShopDetails{
+    position: absolute;
+    left: 1100px;
+    top: 150px;
+    width: 450px;
+    height: 250px;
+}
+.dv_title{
+    height: 50px;
+    line-height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    background-color: #f1f1f1;
+    color: #615f5f;
+    border-bottom:1px solid #c3c3c3;
+}
